@@ -9,7 +9,7 @@ module.exports = function (context) {
     );
   }
 
-  const { siteId } = fathomAnalytics;
+  let { siteId, customDomain = 'https://cdn.usefathom.com' } = fathomAnalytics;
 
   if (!siteId) {
     throw new Error(
@@ -33,7 +33,7 @@ module.exports = function (context) {
             tagName: 'script',
             attributes: {
               defer: true,
-              src: 'https://cdn.usefathom.com/script.js',
+              src: `${customDomain}/script.js`,
               spa: 'auto',
               site: siteId,
             },

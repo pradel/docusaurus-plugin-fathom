@@ -28,6 +28,8 @@ module.exports = {
   themeConfig: {
     fathomAnalytics: {
       siteId: 'MY_FATHOM_CODE',
+      // Optional fields.
+      customDomain: 'https://mycustomdomain.com', // Use a custom domain, see https://usefathom.com/support/custom-domains
     },
   },
 };
