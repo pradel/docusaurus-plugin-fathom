@@ -1,0 +1,33 @@
+{
+  "name": "docusaurus-plugin-fathom",
+  "version": "1.0.1",
+  "description": "Fathom analytics plugin for Docusaurus",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "fathom",
+    "docusaurus",
+    "docusaurus-plugin",
+    "privacy",
+    "analytics"
+  ],
+  "files": [
+    "src"
+  ],
+  "prettier": {
+    "singleQuote": true
+  },
+  "peerDependencies": {
+    "@docusaurus/core": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradel/docusaurus-plugin-fathom.git"
+  },
+  "author": "pradel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradel/docusaurus-plugin-fathom/issues"
+  },
+  "homepage": "https://github.com/pradel/docusaurus-plugin-fathom#readme"
+}
