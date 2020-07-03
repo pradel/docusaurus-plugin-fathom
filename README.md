@@ -24,7 +24,7 @@ Edit the configuration in your site's `docusaurus.config.js` file:
 // docusaurus.config.js
 
 module.exports = {
-  plugins: ['docusaurus-plugin-fathom'],
+  plugins: [require.resolve('docusaurus-plugin-fathom')],
   themeConfig: {
     fathomAnalytics: {
       siteId: 'MY_FATHOM_CODE',
