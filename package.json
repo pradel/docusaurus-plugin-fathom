@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-plugin-fathom",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Fathom analytics plugin for Docusaurus",
   "main": "src/index.js",
   "scripts": {},
