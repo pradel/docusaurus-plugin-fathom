@@ -2,7 +2,7 @@
 
 [Fathom](https://usefathom.com/ref/ZB4OSQ) analytics plugin for [Docusaurus v2 and v3](https://github.com/facebook/docusaurus).
 
-> 🔥 Fathom is a privacy-focused website analytics. Get 10\$ off to try it with this link https://usefathom.com/ref/ZB4OSQ. 🔥
+> 🔥 Fathom is cookie-free, GDPR compliant, privacy-first website analytics software. Get $10 off your first invoice and a 7-day free trial when you use this URL: https://usefathom.com/ref/ZB4OSQ. 🔥
 
 ## Installation
 
