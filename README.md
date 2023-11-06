@@ -1,6 +1,6 @@
 # docusaurus-plugin-fathom
 
-[Fathom](https://usefathom.com/ref/ZB4OSQ) analytics plugin for [Docusaurus v2](https://github.com/facebook/docusaurus).
+[Fathom](https://usefathom.com/ref/ZB4OSQ) analytics plugin for [Docusaurus v2 and v3](https://github.com/facebook/docusaurus).
 
 > 🔥 Fathom is a privacy-focused website analytics. Get 10\$ off to try it with this link https://usefathom.com/ref/ZB4OSQ. 🔥
 
