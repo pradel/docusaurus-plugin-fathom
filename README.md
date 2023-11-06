@@ -14,6 +14,9 @@ npm install docusaurus-plugin-fathom --save
 
 # With yarn
 yarn add docusaurus-plugin-fathom
+
+# With pnpm
+pnpm add docusaurus-plugin-fathom
 ```
 
 ## Configuration
@@ -28,8 +31,6 @@ module.exports = {
   themeConfig: {
     fathomAnalytics: {
       siteId: 'MY_FATHOM_CODE',
-      // Optional fields.
-      customDomain: 'https://mycustomdomain.com', // Use a custom domain, see https://usefathom.com/support/custom-domains
     },
   },
 };
